@@ -3989,7 +3989,7 @@ var beepbox = (function (exports) {
 			--secondary-text: #706087;
 			--box-selection-fill: #225835;
 			--loop-accent: #8f00fb;
-			--link-accent: #82dd5d;
+			--link-accent: #8c5d49;
 			--ui-widget-background: #303c66;
 			--ui-widget-focus: #62559b;
 			--pitch-background: #293b52;
