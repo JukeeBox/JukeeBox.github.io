@@ -1699,7 +1699,7 @@ var beepbox = (() => {
       }
       return wave;
     }
-    //acBox
+    //AcBox
     static generateAbsSineWave() {
       const wave = new Float32Array(_Config.sineWaveLength + 1);
       for (let i = 0; i < _Config.sineWaveLength + 1; i++) {
