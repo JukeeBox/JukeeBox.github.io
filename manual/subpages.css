@@ -339,6 +339,7 @@ details:hover {
     transform: scale(1.25);
 }
 
+
 .lemon {
 	color: #FFF570;
 }
@@ -349,4 +350,28 @@ details:hover {
 
 .choptop {
     color: #ff66a6;
+}
+
+.bulbbox {
+    color: #b961f8;
+}
+
+.jukebox {
+    color: #AD7760;
+}
+
+.edobox {
+    color: #fccaab;
+}
+
+.dogebox2 {
+    color: #ffd800;
+}
+
+.studiobox {
+    color: #41e995;
+}
+
+.unbox {
+    color: #50b8be;
 }
